@@ -7,6 +7,10 @@ Edit on example branch. A new try.
 Now updating to update.readme branch
 updating again locally on bash
 
-##Purpose
+## Purpose
 
 The intension is to show how t create floating tags
+
+## Getting started
+
+TO start with this project, just clone this repository.
